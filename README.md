@@ -107,7 +107,7 @@
    ### Template 1:
       
       The default template is used by reducing the column size by 1 as the training and testing files 
-      of POS tagging contains one less column than the chunking part.
+      of POS tagging contains one less column than the chunking part and some features are also changed.
     
    ### Template 2:
       
@@ -115,7 +115,8 @@
     
    ### Template 3:
       
-      The window set is changed with respect to the default template.
+      The window set is changed with respect to the default template by reducing the postive end size
+      and keeping the negative end size.
    
    ### Accuracy – Its accuracy comes out to be around 93-94%.
 
