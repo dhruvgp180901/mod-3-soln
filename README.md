@@ -14,7 +14,8 @@
   -> Each main-folder individually contains- 
   
     => 3(three) sub-folders with the name of main-folder followed by an integer.
-       For example – chunking_1, POS_tagging_1, NER_1, chunking_2, POS_tagging_2, NER_2, chunking_3, NER_3, POS_tagging_3 etc.
+       For example – 
+       chunking_1, POS_tagging_1, NER_1, chunking_2, POS_tagging_2, NER_2, chunking_3, NER_3, POS_tagging_3 etc.
        
     => Training file.
     
